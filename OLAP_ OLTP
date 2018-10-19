@@ -1,0 +1,9 @@
+OLTP: Online Transaction Processing is an operational data which consists of the orginal source of the data. It helps in controlling and 
+running basic business tasks. The data in short reveals about the ongoing business processes. The processing speed is very fast compared 
+to OLAP. It has rigorous backups. It deals with simple queries. 
+
+
+OLAP: Online Analytical Processing is a consolidated data which consists of the data taken from various OLTP Databases. It helps with 
+planning, problem solving and decision support. The data has multi-dimensional views of different business activities. The processing speed depends on 
+data involved and might take hours for complex queries to execute. Instead of backup, it reloads the OLTP data as a recovery method. OLAP
+delas with complex queries which involves aggregations. 
